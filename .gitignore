@@ -43,3 +43,9 @@ sitemap*.xml
 
 # TS
 *.tsbuildinfo
+
+.DS_STORE
+.cache
+.temp
+node_modules/
+dist/
